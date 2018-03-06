@@ -17,7 +17,7 @@ class App extends Component {
 		});
 	}
 
-
+	// render function because its class based component
 	render() {
 		return (
 			<div>
